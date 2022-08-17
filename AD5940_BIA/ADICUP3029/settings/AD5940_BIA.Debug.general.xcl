@@ -1,0 +1,13 @@
+"D:\EmbeddedWorkbench\arm\bin\armproc.dll" 
+
+"D:\EmbeddedWorkbench\arm\bin\armJET.dll" 
+
+"D:\2020-2021\PAE biorobotics\Code\AD5940_BIA\ADICUP3029\Debug\Exe\c.out" 
+
+--plugin="D:\EmbeddedWorkbench\arm\bin\armbat.dll" 
+
+--flash_loader="C:/Users/Bianca/IAR-CMSIS-Packs/AnalogDevices/ADuCM302x_DFP/3.2.0/\ARM\config\flashloader\AnalogDevices\FlashADUCM3029.board" 
+
+
+
+
