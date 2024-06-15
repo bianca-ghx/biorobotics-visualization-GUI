@@ -1,6 +1,7 @@
 
 ## Introduction
-The Advanced Engineering Project (PAE) is a compulsory subject from the Bachelor of Telecommunications Engineering at Universitat Politècnica de Catalunya. This biorobotics project, involves characterizing nanomaterial samples and measuring them to sense distance to a human body. The project also includes a setup to measure force and distance and a software GUI to visualize these results.
+The goal of this project is to develop a user-friendly GUI for visualizing electronic measurements and force & distance data in biorobotics applications. By integrating various measurement systems and providing a graphical interface, this project aims to facilitate the analysis and characterization of nanomaterial samples and their interactions with human bodies. The GUI is designed to streamline the data visualization process, making it easier for users to interact with and interpret the measurement results.
+
 
 ## Installation
 To install and run this project, follow these steps:
