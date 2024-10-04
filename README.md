@@ -1,3 +1,4 @@
+# Biorobotics Visualization GUI
 
 ## Introduction
 The goal of this project is to develop a user-friendly GUI for visualizing electronic measurements and force & distance data in biorobotics applications. By integrating various measurement systems and providing a graphical interface, this project aims to facilitate the analysis and characterization of nanomaterial samples and their interactions with human bodies. The GUI is designed to streamline the data visualization process, making it easier for users to interact with and interpret the measurement results.
